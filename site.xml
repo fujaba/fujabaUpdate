@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/de.uni_kassel.fujaba4eclipse.feature_1.0.5.201309021450.jar" id="de.uni_kassel.fujaba4eclipse.feature" version="1.0.5.201309021450">
+      <category name="required"/>
+   </feature>
+   <category-def name="required" label="Required"/>
+</site>
